@@ -1,2 +1,7 @@
 # jeevatest
 a workaround file
+
+#cloud-config
+
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFLmYNz4mJxeQPb7rnnhNKzlgGTily2/J7f8tnJTIiQ9E0yNIff1Gawy7p9ihjBsjTSJ8FE1YTACt4HPZe4krEoraC8hP57pjpHxnDNRVLwyKgqgHSIsrPPBg0CSVRv7/ZRep82ww2FCsCDoVrdc9ahnKs+pB0iLXaNFRu43pRfeGmeapBgHxdOmY5sr/ja0r21Bf0IpFa7ChtL8jxnJTRzOaq+vZM1TD65iOmmbD/eFO0+OapCB/r2syYT5yuUkVqgMfW3rcj6mL+aUL+wgrL6I5Mmdgblp+pADrSR0NQv/AMR8N00jEoTTtih3yxj5kpPJY4Lzg/l5cm6XKd4Dbx jeeva@Jeeva
